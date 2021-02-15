@@ -1,4 +1,22 @@
+# Author: Nelson Luu
+# Date Created: 21/10/2020
+# Last Modified: 16/02/2021
+# R Version: 4.0.2
 
+# DISCLAIMER:
+# USE version 4.0.2
+# MAY NOT WORK ON OLDER VERSION e.g. 3.6.3
+
+# Personal Notes:
+# first attempt during mid semester break (22/09/2020)
+
+# Description:
+# This application creates narrative visualisation based 
+# on random breath testing and alcohol related crashes in
+# Victoria. The purpose is to present 4 key findings and
+# allow users to perform their own data exploration.
+# It is highly interactive with filters, selection inputs 
+# to customise the plots. 
 
 # ========================================================
 # ========================================================
