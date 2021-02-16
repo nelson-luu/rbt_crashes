@@ -9,6 +9,7 @@ This application creates narrative visualisation based on random breath testing 
 ## Video Demonstration:
 - [YouTube Link](https://www.youtube.com/watch?v=SOE81-NHeXU)
 
+<img src="https://github.com/nelson-luu/rbt_crashes/blob/main/screenshots/overview.png" height="700">
 
 ## Notes:
 - Uploaded csv files are preprocessed data (to save on file space)
