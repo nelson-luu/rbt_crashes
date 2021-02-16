@@ -9,7 +9,9 @@ This application creates narrative visualisation based on random breath testing 
 ## Video Demonstration:
 - [YouTube Link](https://www.youtube.com/watch?v=SOE81-NHeXU)
 
+
 ## Notes:
 - Uploaded csv files are preprocessed data (to save on file space)
+- Include smaller size GIFs (<0.5MB)
 
 
