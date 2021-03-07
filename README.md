@@ -2,8 +2,9 @@
 
 This application creates a narrative visualisation based on random breath testing and alcohol related crashes in Victoria. The purpose is to present the author's 4 key findings and allow users to perform their own data exploration. It is highly interactive with filters, selection inputs and linkage between plots.
 
-## Video Demonstration:
-- [YouTube Link Placeholder]()
+## Live and Video Demonstration:
+- [Live Demo](https://nelsonluu.shinyapps.io/rbt_crash/)
+- [YouTube Link](https://www.youtube.com/watch?v=xa0UpXHqg9Q)
 
 <img src="https://github.com/nelson-luu/rbt_crashes/blob/main/screenshots/overview.png" height="700">
 
@@ -14,6 +15,5 @@ This application creates a narrative visualisation based on random breath testin
 ## Notes:
 - Uploaded csv files are preprocessed data (to save on file space)
 - Originally a coursework project further developed into a personal project
-- Include smaller size GIFs (<0.5MB)
 
 
